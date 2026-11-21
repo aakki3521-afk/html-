@@ -1,33 +1,24 @@
 
+
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Picture</title>
-    <style>
-        body {
-            text-align: center;
-            background-color: lightblue;
-            font-family: Arial;
-        }
-
-        h1 {
-            color: darkblue;
-        }
-
-        img {
-            width: 300px;
-            height: 300px;
-            border-radius: 15px;
-        }
-    </style>
+    <title>My First Webpage</title>
 </head>
 <body>
 
-    <h1>Beautiful Nature</h1>
-    <p>Welcome to my webpage!</p>
+    <h1>Welcome to My Webpage</h1>
+    <h2>About Me</h2>
 
-    <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600"
-         alt="Beautiful nature">
+    <p>Hello! I am learning HTML.</p>
+    <p>HTML is used to create webpages.</p>
+
+    <h3>My Hobbies</h3>
+    <ul>
+        <li>Listening to music</li>
+        <li>Reading books</li>
+        <li>Learning coding</li>
+    </ul>
 
 </body>
 </html>
